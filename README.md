@@ -20,7 +20,7 @@
 
 ###
 
-<h6 align="center">🎯  Full-Stack Java Developer  | React / Angular | Spring Boot | Python (ML)  <br><br>🚀 Skills at a Glance<br>- Backend: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, MySQL  <br>- Frontend: Angular, React, Next.js, TypeScript, Tailwind  <br>- DevOps & Tools: Docker, Git, CI/CD, RabbitMQ, Keycloak, Eureka  <br>- ML/Data: Python, Pandas, Scikit-learn, Streamlit</h6>
+<h6 align="left">🎯  Full-Stack Java Developer  | React / Angular | Spring Boot | Python (ML)  <br><br>🚀 Skills at a Glance<br>- Backend: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, MySQL  <br>- Frontend: Angular, React, Next.js, TypeScript, Tailwind  <br>- DevOps & Tools: Docker, Git, CI/CD, RabbitMQ, Keycloak, Eureka  <br>- ML/Data: Python, Pandas, Scikit-learn, Streamlit</h6>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
