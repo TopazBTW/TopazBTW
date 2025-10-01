@@ -20,11 +20,11 @@
 
 ###
 
-<h6 align="left">🎯  Full-Stack Java Developer  | React / Angular | Spring Boot | Python (ML)  <br><br>🚀 Skills at a Glance<br>- Backend: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, MySQL  <br>- Frontend: Angular, React, Next.js, TypeScript, Tailwind  <br>- DevOps & Tools: Docker, Git, CI/CD, RabbitMQ, Keycloak, Eureka  <br>- ML/Data: Python, Pandas, Scikit-learn, Streamlit</h6>
+<h5 align="left">🎯  Full-Stack Java Developer  | React / Angular | Spring Boot | Python (ML)  <br><br>🚀 Skills at a Glance<br>- Backend: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, MySQL  <br>- Frontend: Angular, React, Next.js, TypeScript, Tailwind  <br>- DevOps & Tools: Docker, Git, CI/CD, RabbitMQ, Keycloak, Eureka  <br>- ML/Data: Python, Pandas, Scikit-learn, Streamlit</h5>
 
 ###
 
-<h6 align="left">👀 Quick Facts<br>- 🔎 Open to Full-Stack & Backend Developer roles  <br>- 💬 Ask me about  Java, APIs, microservices, or frontend frameworks <br>- 🐾 Fun fact: Like a cat chasing lasers, I love chasing new tech stacks</h6>
+<h5 align="left">👀 Quick Facts<br>- 🔎 Open to Full-Stack & Backend Developer roles  <br>- 💬 Ask me about  Java, APIs, microservices, or frontend frameworks <br>- 🐾 Fun fact: Like a cat chasing lasers, I love chasing new tech stacks</h5>
 
 ###
 
